@@ -1,6 +1,17 @@
-## Getting Started
+## Name of project: PlayerSelection (Team Selection Simulator)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Name of author: Jachin Hugh Dzidumor Kpogli
+
+##  Date created: 19th September, 2025
+
+## Purpose: 
+This program allows user input for a single player's name, age, height (in m),
+weight(in lbs) and jersey number. It then converts the weight to kg and height to 
+cm. It then uses this data to determine their category, position, attacker status, eligibility,
+lineup and final decision. Finally, it generates a Player Report based on user input and determined data.
+
+## Java Build tool
+VS Code was used in the creation of this project.
 
 ## Folder Structure
 

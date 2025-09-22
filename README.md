@@ -1,6 +1,6 @@
-## Name of project: PlayerSelection (Team Selection Simulator)
+## Name of project: Ashesi Premier League (Team Selection Simulator)
 
-## Name of author: Jachin Hugh Dzidumor Kpogli
+## Name of author: Jachin Hugh Dzidumor Kpogli (ID: 28532028)
 
 ##  Date created: 19th September, 2025
 

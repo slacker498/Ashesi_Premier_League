@@ -31,6 +31,8 @@ public class PlayerSelection {
         System.out.println("Enter the player's jersey_number: ");
         byte jersey_number = sc.nextByte();
 
+        sc.close(); // close Scanner object
+
         // Determine player category
         String playerCategory;
         if (age<20) playerCategory = "Rising Star";
@@ -53,7 +55,7 @@ public class PlayerSelection {
         }
 
         // Determine attacker status
-        String attackerStatus = (jersey_number == 9)? "Yes":"No";
+        String attackerStatus = (jersey_number == 9 || jersey_number == 10 || jersey_number == 11 || jersey_number == 7)? "Yes":"No";
 
         // Determine eligibility
         String playerEligibility = "";
